@@ -1,9 +1,10 @@
 # Fullstack Demo
 An example of a full stack application that grabs listings, filters them according to a restriction and lists them as a table
 
-<b>How to run<b><br>
-clone repo
-navigate to directory 
-run the following commands:
-npm install
-node app
+## How to run<br>
+
+clone repo<br>
+navigate to directory <br>
+run the following commands:<br>
+npm install<br>
+node app<br>
